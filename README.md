@@ -1,2 +1,2 @@
 # Weather-Android-Apk
-![Weather Cast](1024.png)
+![Weather Cast](play_store_512.png)
